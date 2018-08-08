@@ -1,0 +1,13 @@
+0:0:0:0:0:0:0:1 - - [25/Jan/2018:13:19:06 +0800] "GET /page/login?url=http://localhost:8091/order/order-cart.html HTTP/1.1" 200 4045 http-bio-8088-exec-2 81060
+0:0:0:0:0:0:0:1 - - [25/Jan/2018:13:19:08 +0800] "GET /css/login.css HTTP/1.1" 304 - http-bio-8088-exec-2 699
+0:0:0:0:0:0:0:1 - - [25/Jan/2018:13:19:08 +0800] "GET /js/jquery-1.6.4.js HTTP/1.1" 304 - http-bio-8088-exec-1 525
+0:0:0:0:0:0:0:1 - - [25/Jan/2018:13:19:08 +0800] "GET /images/taotao-logo.gif HTTP/1.1" 304 - http-bio-8088-exec-1 303
+0:0:0:0:0:0:0:1 - - [25/Jan/2018:13:19:09 +0800] "GET /images/login-all-bg.png HTTP/1.1" 304 - http-bio-8088-exec-1 304
+0:0:0:0:0:0:0:1 - - [25/Jan/2018:13:19:09 +0800] "GET /images/544a11d3Na5a3d566.png HTTP/1.1" 304 - http-bio-8088-exec-2 320
+0:0:0:0:0:0:0:1 - - [25/Jan/2018:13:19:12 +0800] "GET /favicon.ico HTTP/1.1" 404 949 http-bio-8088-exec-8 34
+0:0:0:0:0:0:0:1 - - [25/Jan/2018:13:21:10 +0800] "POST /user/login HTTP/1.1" 500 5549 http-bio-8088-exec-7 1317
+0:0:0:0:0:0:0:1 - - [25/Jan/2018:13:24:38 +0800] "POST /user/login HTTP/1.1" 200 82 http-bio-8088-exec-3 302589
+0:0:0:0:0:0:0:1 - - [25/Jan/2018:13:30:03 +0800] "GET /user/token/6b55bea7-a63e-4457-a3b2-62546decd599?callback=jQuery4887432&_=1516858202733 HTTP/1.1" 200 176 http-bio-8088-exec-10 308
+0:0:0:0:0:0:0:1 - - [25/Jan/2018:13:31:17 +0800] "GET /user/token/6b55bea7-a63e-4457-a3b2-62546decd599?callback=jQuery1695255&_=1516858277046 HTTP/1.1" 200 176 http-bio-8088-exec-2 64
+0:0:0:0:0:0:0:1 - - [25/Jan/2018:13:32:10 +0800] "GET /user/token/6b55bea7-a63e-4457-a3b2-62546decd599?callback=jQuery22826&_=1516858330507 HTTP/1.1" 200 174 http-bio-8088-exec-8 143
+0:0:0:0:0:0:0:1 - - [25/Jan/2018:13:32:19 +0800] "GET /user/token/6b55bea7-a63e-4457-a3b2-62546decd599?callback=jQuery8544310&_=1516858339600 HTTP/1.1" 200 176 http-bio-8088-exec-6 136
